@@ -108,7 +108,7 @@ text-align: center;
     /*transform: translate(-50%, -50%);*/
     /*visibility: hidden;*/
 }
-.hero__modal {
+.hero__modal a{
     color: #fff;
 }
 .hero__block {
